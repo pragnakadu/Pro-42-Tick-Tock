@@ -1,2 +1,2 @@
-# Pro-42-Tick-Tock
-white hat jr...in this project I basically created a clock using predefined function in the p5 dom library.....so in this project I used the " hour() , second() , min() " function which takes second , hour and minute from our computer and then I have used  function " map()" to draw the seconds , min, and hour  hand...and then displayed the hands using stroke function / code .....and then I used arc function to draw arc around the hands according to the hour , min , sec completed 
+# p5.play-boilerplate
+Boiler plate for p5.play
